@@ -71,4 +71,4 @@ git push origin <branch-name>
 ```
 ## Contact - Sourav Verma 
 
-[Resume Website]((https://souravverma.vercel.app/))
+[Resume Website](https://souravverma.vercel.app/)
