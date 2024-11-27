@@ -72,10 +72,6 @@ git commit -m "commit message"
 ```bash
 git push origin <branch-name>
 ```
-## Contact - Apoorva Verma
+## Contact - Sourav Verma 
 
-[Resume Website](https://apoorva.igscs.in/)
-
-[![linkedin](https://img.shields.io/badge/Apoorva_Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
-[![GitHub](https://img.shields.io/badge/Apoorva_Verma-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/apoorva-01/)
-
+[Resume Website]((https://souravverma.vercel.app/))
