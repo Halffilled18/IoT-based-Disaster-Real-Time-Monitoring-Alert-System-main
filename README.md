@@ -5,9 +5,6 @@ A contemporary system called **RAKSH**, your personal disaster alarm system, is 
 Real-time monitoring of natural disasters is made possible with our RAKSH, allowing for prompt and efficient responses. Our RAKSH can aid in the preservation of life and property by offering precise information on the location and intensity of disasters. Disaster relief workers can more effectively target their efforts and deliver supplies more quickly by using this information. Additionally, it may spot potential risks like fires or floods before they become an issue. During emergencies, RAKSH may be a vital tool for safeguarding public safety.
 
 
-## Raksh in Action!
-[Video](https://youtu.be/56r0W1CgivM?si=RzXV4G7qN0KwpCB2)!
-<!-- Screenshots -->
 
 ## Running Raksh locally
 ### Prerequisites
